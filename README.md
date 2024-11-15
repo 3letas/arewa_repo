@@ -1,3 +1,4 @@
 # arewa_repo
-arewa data science fellowship tutorial
+This is the arewa data science fellowship ADSF.
 I am learning about data science, machine learning and deep learning, in that order.
+I am so excited to begin this journey.
